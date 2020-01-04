@@ -1,2 +1,2 @@
 # Fake-News-Detection
-A ML model Fake News detection
+A ML model for fake news detection
